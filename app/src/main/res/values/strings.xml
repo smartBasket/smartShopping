@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">smart shopping basket</string>
+    <string name="app_name">barCode</string>
+    <string name="scan">Scan</string>
 </resources>
